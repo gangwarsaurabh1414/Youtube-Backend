@@ -1,3 +1,3 @@
-# chai aur backend Series
+# Backend Project - [ Youtube ]
 
-This is a video series on backend with Javascript
+This is a backend Project with Javascript
